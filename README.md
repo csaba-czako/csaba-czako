@@ -6,7 +6,6 @@ Web developer and designer
 
 * 🌍  I'm based in Komárom, Hungary
 * ✉️  You can contact me at [csabaczako@icloud.com](mailto:csabaczako@icloud.com)
-* 🚀  I'm currently working on [UnityRP FiveM Framework](http://unityrp.hu)
 
 ### Skills
 
