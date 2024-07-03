@@ -31,7 +31,7 @@ Web developer and designer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/csaba-czako" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://discord.com/users/824558331783675914" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
